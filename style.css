@@ -1,4 +1,11 @@
 .bio {
-    scale:200%
-    
+    scale:200%;
+}
+
+.title {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    font-size: larger;
+    margin-top: 10px;
 }

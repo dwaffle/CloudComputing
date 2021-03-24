@@ -13,10 +13,10 @@
 .form-title{
     font-size: x-large;
     margin-top: 20px;
-    justify-content:center;
 }
 
 .contact-frm{
+    align-items: center;
     margin: 10px;
 }
 

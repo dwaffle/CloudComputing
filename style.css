@@ -16,15 +16,23 @@
     margin-top: 20px;
 }
 
+.name-frm{
+    display:block;
+    text-align:center;
+}
+
 .contact-frm{
     display:block;
     width:100%;
+    text-align:center;
     justify-content:center;
     align-items: center;
     margin: 10px;
 }
 
 .email-frm{
+    display:block;
+    text-align:center;
     margin-top: 10px;
     margin-bottom: 10px;
 }

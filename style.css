@@ -9,3 +9,8 @@
     font-size: larger;
     margin-top: 10px;
 }
+
+.contact-frm{
+    display: flex;
+    margin: 10px;
+}

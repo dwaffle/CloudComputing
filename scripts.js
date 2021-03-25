@@ -1,3 +1,3 @@
 function rollDice(){
-    return Math.random() * 6 * 10
+    document.getElementById("dice-display").innerHTML = Math.random() * 6 * 10
 }

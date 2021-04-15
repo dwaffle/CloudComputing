@@ -1,3 +1,4 @@
 function rollDice(){
-    document.getElementById("dice-display").innerHTML = `You rolled: ${Math.floor(Math.random() * 6) + 1}`
+    let sides = Number(document.getElementById("noofsides"))
+    document.getElementById("dice-display").innerHTML = `You rolled: ${Math.floor(Math.random() * sides) + 1}`
 }
